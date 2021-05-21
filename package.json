@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/pushid",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "PushID",
   "type": "module",
   "main": "./lib/index.cjs",
@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/Darkwolf/node-pushid#readme",
   "dependencies": {
-    "@darkwolf/primordials": "^1.1.5"
+    "@darkwolf/primordials": "^1.2.0"
   }
 }
