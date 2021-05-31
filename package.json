@@ -1,6 +1,6 @@
 {
   "name": "@darkwolf/pushid",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "PushID",
   "type": "module",
   "main": "./lib/index.cjs",
